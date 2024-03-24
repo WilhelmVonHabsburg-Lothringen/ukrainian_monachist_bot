@@ -1,0 +1,32 @@
+{
+    "films": [
+        {
+            "title": "Pavlo Skoropadskyi",
+            "desc": " was a Ukrainian aristocrat, military and state leader, decorated Imperial Russian Army and Ukrainian Army general of Cossack heritage. Skoropadskyi became Hetman of all Ukraine following a coup on 29 April 1918.",
+            "url": "https://en.wikipedia.org/wiki/Pavlo_Skoropadskyi",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pavlo_Skoropadsky_portrait%2C_colorized_by_Ruslan_Habanets.jpg/220px-Pavlo_Skoropadsky_portrait%2C_colorized_by_Ruslan_Habanets.jpg",
+            "rating": "10/10"
+        },
+        {
+            "title": "Ivan Mazepa",
+            "desc": "was a Ukrainian military, political, and civic leader who served as the Hetman of the Zaporizhian Host and the Left-bank Ukraine in 1687–1708. The historical events of Mazepa's life have inspired many literary, artistic and musical works. He was famous as a patron of the arts.\n\nMazepa played an important role in the Battle of Poltava (1709), where after learning that Tsar Peter I intended to relieve him as acting Hetman (military leader) of Zaporozhian Host (a Cossack state) and to replace him with Alexander Menshikov, he defected from his army and sided with King Charles XII of Sweden. The political consequences and interpretation of this defection have resonated in the national histories both of Russia and of Ukraine.\n\nThe Russian Orthodox Church laid an anathema (excommunication) on Mazepa's name in 1708 and still refuses to revoke it. The anathema was not recognized by the Ecumenical Patriarchate of Constantinople, which considers it uncanonical and imposed with political motives as a means of political and ideological repression, with no religious, theological or canonical reasons.\n\nPro-independence and anti-Russian elements in Ukraine from the 18th century onwards were derogatorily referred to as Mazepintsy . The alienation of Mazepa from Ukrainian historiography continued during the Soviet period, but post-1991 in independent Ukraine Mazepa's image has been gradually rehabilitated.[citation needed]\n\nThe Ukrainian corvette Hetman Ivan Mazepa of the Ukrainian Navy is named after him",
+            "url": "https://en.wikipedia.org/wiki/Ivan_Mazepa",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ivan_Mazepa.jpg/220px-Ivan_Mazepa.jpg",
+            "rating": "1000/10"
+        },
+        {
+            "title": "Dmytro Ivanovych Vyshnevetsky",
+            "desc": "was a Ruthenian magnate of the Polish–Lithuanian Commonwealth. He established the Zaporozhian Cossack stronghold on the Small Khortytsia Island. He was also known as Baida in Ukrainian folk songs.\n\nBiography\nDmytro Vyshnevetsky was born into the powerful family of Ruthenian magnate Ivan Vyshnyveckiy (?-1542) (part of Gediminids bloodline and the youngest son of Michal Zbaraskiy) and Nastazya Olizarowich (?-1536), daughther of Semen Olizarowich [uk]. The Vyshnyveckiy family takes its roots from the princely family of Novhorod-Siverskyi, through Dmitriy Korybut and Anastasia of Ryazan.\n\nAt first Dmytro Vyshnevetsky lived in the town of Vyshnivets of the Kremenets Powiat (county). In 1550–1553, Vyshnevetsky became a starosta of the Cherkasy and the Kaniv Powiats.[2] Vyshnevetsky has been called the first Cossack Hetman, although he is not mentioned with this title in the 16th-century sources.\n\nDmytro Baida Vyshnevetsky was an able leader, although somewhat of a reckless adventurer. He started organizing a Cossack army in 1550 against the Crimean Khanate. Displeased with the king Sigismund II Augustus's policy of Catholization and centralization of power, he was ready to go over to the Turks.[citation needed] However, he was appointed to fortify the island of Mala Khortytsia on the Dnipro beyond the rapids. According to Hrushevsky, Vyshnevetsky built the fortress out of his own pocket as both Sigismund II Augustus and Devlet I Giray refused to provide any assistance. Eventually he managed to develop it to the point that khan Devlet I Giray could not take it, and he deflected the khan's efforts to Russia.\n\nIn 1556 in service to Ivan the Terrible he helped lead two raids of Ukrainian Cossacks and Russians against the Crimean Tatars around Ochakiv. In 1558 he raided around Perekop. In 1559 he raided down the Donets and Don. With the start of the Livonian War, Ivan turned his attention west and Vyshnevetsky, being Ivan's close relative and his governor in the North Caucasus, returned to the Lithuanian service with a great number of his Adyghe warriors. His Pyatigorsky detachments became the major military force of the Polish-Lithuanian Commonwealth in centuries to come. In 1561, at the request of the Lithuanian prince, he went back to fortifying Khortytsia.\n\nIn 1563 he was involved in Moldavian affairs, perhaps hoping to obtain the throne of Moldavia, but was defeated by the Turks, taken prisoner, and after the refusal of Ivan the Terrible to free his relative, he was tortured to death in Constantinople.\n\nVyshnevetsky's fortifications on Khortytsia, called sich, served as a prototype for later fortifications of the Zaporizhian Sich.",
+            "url": "https://en.wikipedia.org/wiki/Dmytro_Vyshnevetsky",
+            "photo": "https://www.ukrlegenda.org/kozak/img/bajda.jpg",
+            "rating": "10/10"
+        },
+        {
+            "title": "Bogdan Kmelnickyi",
+            "desc": "was a Ruthenian nobleman and military commander of Ukrainian Cossacks as Hetman of the Zaporozhian Host, which was then under the suzerainty of the Polish\u2013Lithuanian Commonwealth. He led an uprising against the Commonwealth and its magnates (1648\u20131654) that resulted in the creation of an independent Cossack state in Ukraine. In 1654, he concluded the Treaty of Pereiaslav with the Russian Tsar and allied the Cossack Hetmanate with Tsardom of Russia, thus placing central Ukraine under Russian protection. During the uprising the Cossacks led a massacre of thousands of Poles and Jews during 1648\u20131649 as one of the most traumatic events in the history of the Jews in Ukraine and Ukrainian nationalism.",
+            "url": "https://en.m.wikipedia.org/wiki/Bohdan_Khmelnytsky",
+            "photo": "AgACAgIAAxkBAAICfWYAAUlS-rLlFad-dAEK6YfHDWQgJgACN9wxG5QEAUif0Utp2CdO_gEAAwIAA20AAzQE",
+            "rating": "1000/10"
+        }
+    ]
+}
